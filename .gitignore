@@ -13,3 +13,26 @@
 *.rej
 *~
 *.pyc
+
+# Arquivos gerados localmente (os fontes permanecem versionados)
+/.vscode/
+/1
+/hello
+/hello-host
+/linux-4.13.9.tar.xz
+/simple_driver.tar.gz
+/syscall-build.log
+/modules/**/*.ko
+/modules/**/*.mod.c
+/modules/**/.*.cmd
+/modules/**/modules.order
+/modules/**/Module.symvers
+/modules/sstf/sector_read
+/modules/simple_driver/test_simple_driver
+/modules/simple_driver/test_xtea_driver
+/iperf/**/.deps/
+/iperf/**/config.log
+/iperf/**/config.status
+/iperf/**/config.h
+/iperf/**/stamp-h1
+/iperf/**/iperf
