@@ -23,6 +23,8 @@
 /simple_driver.tar.gz
 /syscall-build.log
 /modules/**/*.ko
+/modules/**/.tmp_versions/
+/iperf/**/*.a
 /modules/**/*.mod.c
 /modules/**/.*.cmd
 /modules/**/modules.order
